@@ -1,0 +1,6 @@
+print('Kabilan')
+print('19.10.2000')
+print('24')
+print('Kariapatti')
+print('626106')
+input("Press Enter to exit...")
