@@ -1,0 +1,5 @@
+Yourname=input("Enter Your Name:")
+Fathername=input("Your Father Name:")
+Mothername=input("Your Mother Namme:")
+Siblingsname=input("Enter your Sibling Name:")
+print("\n Your Family Detils""\n",Yourname,"\n",Fathername,"\n",Mothername,"\n",Siblingsname)
